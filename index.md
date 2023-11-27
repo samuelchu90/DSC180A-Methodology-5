@@ -13,3 +13,5 @@ We are still working on replicating our Quarter 1 Project, so we will have to se
 
 **4. What other techniques would you be interested in using in your project?** <br>
 Since in our Quarter 1 project we are planning on reusing the model weights given to us the research paper, I would be interested in pre-training our own model for our second quarter project. 
+
+Reflection on Q1 Project: I think we are a little behind schedule, but we will try to make up ground this week.
